@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **me@niranjan.blog**
+- 📫 How to reach me **me@niranjan.co**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/niranjan-fartare/](https://www.linkedin.com/in/niranjan-fartare/)
 
