@@ -2,10 +2,7 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 - 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **me@niranjan.co**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/niranjan-fartare/](https://www.linkedin.com/in/niranjan-fartare/)
+- 📫 Reach me at **me@niranjan.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
